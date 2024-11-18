@@ -1,4 +1,4 @@
-package org.example.helpers.enums;
+package org.example.conexion.firebase;
 
 public enum DatabaseCredentialsFirebase{
     SEVICECONNECTION("{\n" +

@@ -1,13 +1,10 @@
-package org.example.databases.firestore;
+package org.example.conexion.firebase;
 
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.cloud.firestore.Firestore;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.FirebaseOptions;
 import com.google.firebase.cloud.FirestoreClient;
-import org.example.adapter.db.DatabaseConnectionsAdapter;
-import org.example.helpers.dbconnections.ConnectionInfoFirebase;
-import org.example.helpers.enums.DatabaseCredentialsFirebase;
 
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

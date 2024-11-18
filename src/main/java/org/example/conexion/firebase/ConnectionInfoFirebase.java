@@ -1,4 +1,4 @@
-package org.example.helpers.dbconnections;
+package org.example.conexion.firebase;
 
 public class ConnectionInfoFirebase {
 
